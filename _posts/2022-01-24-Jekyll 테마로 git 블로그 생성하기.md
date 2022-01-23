@@ -2,11 +2,8 @@
 layout: post
 title: Jekyll 테마로 Git 블로그 생성하기
 date: 2022-01-24 00:50 +0800
-last_modified_at: 2020-10-01 01:08:25 +0800
-tags: [jekyll theme, jekyll, Git, Blogl]
-toc:  true
+tags: [jekyll theme, jekyll, Git, Blog]
 ---
-# Jekyll 테마로 git 블로그 생성하기
 
 ---
 
@@ -16,15 +13,15 @@ toc:  true
 
     GitHub Blog를 생성하려면 Github에 Repository를 생성해야 한다.
 
-    ![우측의 new를 클릭해서 새로운 repository 생성 페이지로 이동한다.](../assets/img/1.png)
+    ![](../assets/img/1.png)
 
     우측의 new를 클릭해서 새로운 repository 생성 페이지로 이동한다.
 
-    ![여기서 주의할 점은 import a repository를 눌러야한다.](../assets/img/2.png)
+    ![](../assets/img/2.png)
 
     여기서 주의할 점은 import a repository를 눌러야한다.
 
-    ![위의 화면이 나와야한다.](../assets/img/3.png)
+    ![](../assets/img/3.png)
 
     위의 화면이 나와야한다.
 
@@ -33,13 +30,13 @@ toc:  true
 
     [Jekyll 테마 링크]([http://jekyllthemes.org/](http://jekyllthemes.org/))
 
-    ![Untitled](../assets/img/4.png)
+    ![](../assets/img/4.png)
 
-    ![테마 선택 후 Homepage 버튼을 클릭하여 해당 github 주소로 이동 후 해당하는 github 주소를 clone 한다.](../assets/img/5.png)
+    ![](../assets/img/5.png)
 
     테마 선택 후 Homepage 버튼을 클릭하여 해당 github 주소로 이동 후 해당하는 github 주소를 clone 한다.
 
-    ![clone한 주소를 clone url에 넣어준다.](../assets/img/3.png)
+    ![](../assets/img/3.png)
 
     clone한 주소를 clone url에 넣어준다.
 
@@ -54,7 +51,7 @@ toc:  true
 
     위에서 설정한 Repository명으로 접속 테스트를 진행하면 된다.
 
-    ![Repository명으로 설정한 Park-ha-nule.github.io로 접속한 화면이다.](../assets/img/6.png)
+    ![](../assets/img/6.png)
 
     Repository명으로 설정한 Park-ha-nule.github.io로 접속한 화면이다.
 
