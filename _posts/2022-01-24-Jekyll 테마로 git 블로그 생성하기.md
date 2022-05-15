@@ -5,6 +5,7 @@ date: 2022-01-24 00:50 +0800
 tags: [jekyll theme, jekyll, Git, Blog]
 ---
 
+## GitBlog(feat.Jekyll)
 ---
 
 기존에 git blog가 있었으나, 거의 사용하지 않기도 하고 하나 새로 만들고 싶어서 처음부터 진행해보려고 한다. github로 블로그를 생성하려는 사람들에게 도움이 되길 바란다.
