@@ -3,9 +3,9 @@
 - 프로젝트 명 : Jekyll 테마로 Git Blog 생성
   - 블로그 명 : 개발하는 skyPark (https://park-ha-nule.github.io)
 - 프로젝트 소개
-  - 회사에서 배운 내용이나 개인적으로 공부한 내용 기록용
+  - 회사에서 배운 내용이나 개인적으로 공부한 내용을 기록한다.
 
-  
+<img width="712" alt="2" src="https://user-images.githubusercontent.com/52904676/177040861-664c7a5b-a641-473d-b567-4db27d76ddf5.png">
 
 ## 프로젝트 정보
 ---
