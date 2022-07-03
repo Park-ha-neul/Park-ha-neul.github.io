@@ -2,7 +2,7 @@
 layout: post
 title: Jekyll 테마로 Git 블로그 생성하기
 date: 2022-01-24 00:50 +0800
-tags: [jekyll theme, jekyll, Git, Blog]
+tags: [Blog]
 ---
 
 ## GitBlog(feat.Jekyll)

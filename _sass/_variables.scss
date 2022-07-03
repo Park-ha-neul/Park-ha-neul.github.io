@@ -32,17 +32,20 @@
   --body-color: var(--gray-700);
   --body-bg: #fff;
 
-  --text-font: Times, "Times New Roman", "Free Serif", "Noto Serif", TimesNewRomanPSMT, "Droid Serif";
+  // --text-font: Times, "Times New Roman", "Free Serif", "Noto Serif", TimesNewRomanPSMT, "Droid Serif";
+  --text-font: 'Gothic A1', sans-serif;
 
   --link-color: var(--blue);
   --link-hover-color: #1c7ed6;
 
   --heading-color: var(--gray-900);
 
-  --border-color: var(--gray-300);
+  // --border-color: var(--gray-300);
   --border-radius: .25rem;
 
-  --code-font: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+
+  // --code-font: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  --code-font: 'Nanum Gothic Coding', sans-serif;
   --code-color: var(--grape);
   --code-bg: #fbf1c7;
 
