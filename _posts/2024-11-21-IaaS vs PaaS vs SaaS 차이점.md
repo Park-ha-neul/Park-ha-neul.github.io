@@ -1,7 +1,8 @@
 ---
 layout: post
+published: true
 title: IaaS vs PaaS vs SaaS 차이점
-date: 2024-11-21 00:50 +0800
+date: November 21, 2024
 tags: [개념]
 ---
 
